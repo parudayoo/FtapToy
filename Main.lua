@@ -5,6 +5,5 @@
    | | (_) | |_| | |  _| | || (_| | |_) |
    |_|\___/ \__, | |_|    \__\__,_| .__/ 
             |___/                 |_|    
-]]
--- Thank you for everone
+]]--
 https://pastefy.app/9QfbulpC/raw?part=10.lua
