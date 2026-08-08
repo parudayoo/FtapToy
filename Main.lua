@@ -6,4 +6,4 @@
    |_|\___/ \__, | |_|    \__\__,_| .__/ 
             |___/                 |_|    
 ]]--
-https://pastefy.app/9QfbulpC/raw?part=10.lua
+loadstring(game:HttpGet("https://pastefy.app/9QfbulpC/raw?part=10.lua"))()
